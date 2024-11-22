@@ -1,6 +1,6 @@
 # What is Fraud Detection?
 
-![image](https://github.com/user-attachments/assets/6a1bb52e-0de8-44d6-add1-e96384ec99a0)
+![image](https://github.com/user-attachments/assets/24a6180e-ba61-40dd-8bbf-c9949148296a)
 
 
 ## Why is fraud detection important?
