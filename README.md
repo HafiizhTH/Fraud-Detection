@@ -68,7 +68,7 @@ During this phase, sophisticated algorithms analyze customer approval patterns, 
 
 ### Customer Authentication
 
-**Step:** Post Failure
+- **Step:** Post Failure
 
 Following the detection of potential fraud indicators, customer authentication processes are initiated. Post-failure analysis involves verifying customer identities and scrutinizing transaction details to confirm legitimacy or identify fraudulent behavior.
 
